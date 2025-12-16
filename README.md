@@ -31,6 +31,11 @@ This approach is:
 - Interpretable
 - Easily extendable to larger catalogues
 
+## Relation to RAG (Retrieval-Augmented Generation)
+
+This project currently implements the retrieval component of a RAG-based system by matching user queries to relevant assessments using vector similarity. The architecture is intentionally modular, allowing easy integration of a large language model (LLM) in the future to generate natural-language explanations or recommendations based on retrieved assessments.
+
+
 ---
 
 Swagger UI
