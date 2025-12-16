@@ -1,0 +1,6 @@
+assessment_id,name,skills,job_roles,duration,level
+A001,Python Skills Test,"python, oop, data structures","software engineer, data analyst",60,intermediate
+A002,SQL Assessment,"sql, joins, databases","data analyst, data engineer",45,beginner
+A003,Cognitive Ability Test,"logical reasoning, problem solving","all",30,all
+A004,Java Developer Test,"java, oops, spring","software engineer",60,advanced
+A005,Data Analytics Aptitude Test,"statistics, data analysis, excel","data analyst",50,intermediate
